@@ -19,5 +19,6 @@ public class Chinese extends Person {
 
     public void Ninhao () {
         System.out.println("您好");
+        System.out.println("hello");
     }
 }
