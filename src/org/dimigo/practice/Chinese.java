@@ -13,7 +13,11 @@ public class Chinese extends Person {
         System.out.println("쨔이찌엔");
     }
 
-        public String toString() {
+    public String toString() {
             return "저는 중국사람 " + getName() + "입니다.";
-        }
+    }
+
+    public void Ninhao () {
+        System.out.println("您好");
+    }
 }
